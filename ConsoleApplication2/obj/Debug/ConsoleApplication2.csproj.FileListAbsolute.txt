@@ -1,0 +1,6 @@
+/home/jokur/Pulpit/Szyperro/grudzien/5/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.exe
+/home/jokur/Pulpit/Szyperro/grudzien/5/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.pdb
+/home/jokur/Pulpit/Szyperro/grudzien/5/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.csproj.AssemblyReference.cache
+/home/jokur/Pulpit/Szyperro/grudzien/5/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.csproj.CoreCompileInputs.cache
+/home/jokur/Pulpit/Szyperro/grudzien/5/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.exe
+/home/jokur/Pulpit/Szyperro/grudzien/5/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.pdb
